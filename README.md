@@ -5,13 +5,13 @@ An adaptive **reading assistant** that integrates **real-time gaze tracking, OCR
 ---
 
 ## 🚀 Features  
-- 👀 **Real-Time Gaze Tracking** (OpenCV + Dlib) – maps eye movement to document text.  
-- 🔊 **Adaptive Reading Support** – highlights text based on gaze; provides instant meanings/translations.  
-- 📘 **Word Meaning Extraction** – integrates dictionary/translation APIs (Gemini API).  
-- 🌐 **Multi-Language Translation** – translates text to user’s preferred language.  
-- 📝 **Document Management** – upload, annotate, export, and manage reading sessions.  
-- 👥 **Collaboration** – assign reviewers, share documents, and track reading progress.  
-- ♿ **Accessibility-Driven Design** – supports dyslexic, visually impaired, and second-language learners.  
+-  **Real-Time Gaze Tracking** (OpenCV + Dlib) – maps eye movement to document text.  
+-  **Adaptive Reading Support** – highlights text based on gaze; provides instant meanings/translations.  
+-  **Word Meaning Extraction** – integrates dictionary/translation APIs (Gemini API).  
+-  **Multi-Language Translation** – translates text to user’s preferred language.  
+-  **Document Management** – upload, annotate, export, and manage reading sessions.  
+-  **Collaboration** – assign reviewers, share documents, and track reading progress.  
+-  **Accessibility-Driven Design** – supports dyslexic, visually impaired, and second-language learners.  
 
 ---
 
