@@ -5,7 +5,7 @@ An adaptive **reading assistant** that integrates **real-time gaze tracking, OCR
 ---
 
 ## 🚀 Features  
--  **Real-Time Gaze Tracking** (OpenCV + Dlib) – maps eye movement to document text.  
+-  **Real-Time Gaze Tracking** (OpenCV + MediaPipe) – maps eye movement to document text.  
 -  **Adaptive Reading Support** – highlights text based on gaze; provides instant meanings/translations.  
 -  **Word Meaning Extraction** – integrates dictionary/translation APIs (Gemini API).  
 -  **Multi-Language Translation** – translates text to user’s preferred language.  
@@ -21,7 +21,7 @@ An adaptive **reading assistant** that integrates **real-time gaze tracking, OCR
 |--------------------|------------|
 | **Frontend**       | HTML, CSS, JavaScript |
 | **Backend**        | Python (Flask), WebSocket (Socket.IO) |
-| **Computer Vision**| OpenCV, Dlib |
+| **Computer Vision**| OpenCV, MediaPipe |
 | **OCR**            | Tesseract OCR |
 | **AI/Language**    | Gemini API |
 | **Database**       | SQL (MySQL / PostgreSQL / SQLite) |
